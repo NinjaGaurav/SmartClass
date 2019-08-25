@@ -55,6 +55,7 @@ Our backend is deployed on a windows instance EC2 at AWS
 
 ### Credits:
 
+* _GAURAV BHOLLA_
 * _ANKIT KUMAR DWIVEDI_
 * _PRABODH RANJAN SWAIN_
 
