@@ -34,17 +34,17 @@ _Some screenshots :_
 
 #### Usage
 
- 1. - Student and teachers should register to SmartClass app
+ 1. Student and teachers should register to SmartClass app
  
- 2. - Teacher mark attendance of students present in the class
+ 2. Teacher mark attendance of students present in the class
  
- 3. - Teacher creates a lecture plan and publish it on the app
+ 3. Teacher creates a lecture plan and publish it on the app
  
- 4. - Student give lecture review which are anonymous and selected **Understood or Repeat** based on thier understanding
+ 4. Student give lecture review which are anonymous and selected **Understood or Repeat** based on thier understanding
  
- 5. - Teacher can see real time review from the students and based on that can repeat a particular topic.
+ 5. Teacher can see real time review from the students and based on that can repeat a particular topic.
  
- 6. - Students can ask their doubts anonymously and if other students also have the same doubt they can upvote it.
+ 6. Students can ask their doubts anonymously and if other students also have the same doubt they can upvote it.
 
 #### AWS Services Used
 
