@@ -1,8 +1,7 @@
-This project was developed during HaXplore, 
+# SmartClass
+A classroom app made for students and teachers for better interaction. This project was developed during HaXplore, 
 the on-campus event conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
 
-#### SmartClass
-A classroom app made for students and teachers for better interaction.
 
 #### Inspiration
 
@@ -35,23 +34,21 @@ _Some screenshots :_
 
 #### Usage
 
- 1 - Student and teachers should register to SmartClass app
+ 1. - Student and teachers should register to SmartClass app
  
- 2 - Teacher mark attendance of students present in the class
+ 2. - Teacher mark attendance of students present in the class
  
- 3 - Teacher creates a lecture plan and publish it on the app
+ 3. - Teacher creates a lecture plan and publish it on the app
  
- 4 - Student give lecture review which are anonymous and selected **Understood or Repeat** based on thier understanding
+ 4. - Student give lecture review which are anonymous and selected **Understood or Repeat** based on thier understanding
  
- 5 - Teacher can see real time review from the students and based on that can repeat a particular topic.
+ 5. - Teacher can see real time review from the students and based on that can repeat a particular topic.
  
- 6 - Students can ask their doubts anonymously and if other students also have the same doubt they can upvote it.
-
-#### Tracks used - **Nurture the future**
+ 6. - Students can ask their doubts anonymously and if other students also have the same doubt they can upvote it.
 
 #### AWS Services Used
 
-Our backend is deployed on a windows instance EC2 at AWS
+Our backend is also deployed on a Windows instance EC2 at AWS
 
 ### Credits:
 
